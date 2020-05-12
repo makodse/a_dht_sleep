@@ -1,8 +1,7 @@
 /*a_dht22_sleep report dht temperature from sleep state. /makodse@gmail.com*/
 #include "ota_secret.h"
 #include <ESP8266WiFi.h>
-#include <WiFiUdp.h>
-#include <ESP8266WebServer.h>
+//#include <WiFiUdp.h>
 #include <PubSubClient.h>
 #include <stdlib.h>
 #include "DHT.h"
